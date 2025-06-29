@@ -1,4 +1,4 @@
-# Project Title: Blinkit Sales Performance Analysis Dashboard
+# Project Title: Blinkit Sales Analysis Dashboard
 
 # Description:
 This project involves the development of a comprehensive sales analysis dashboard for Blinkit, a last-minute delivery app, using Microsoft Excel. The dashboard provides a consolidated visual summary of key performance metrics such as total sales, average sales, outlet performance, item category trends, and customer ratings.
